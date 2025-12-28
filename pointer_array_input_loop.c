@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include
+
 int main(){
     int aadhar[5];
     int *ptr = &aadhar[0];
